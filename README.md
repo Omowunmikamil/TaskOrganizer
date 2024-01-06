@@ -27,7 +27,7 @@ open with live server
 ```
 
 ## Usage
-1. <bold>Add a Task:</bold> Add a task by typing the task name in the input field and clicking the "Add" button. The task will be added to the list of tasks.
+1. <Strong>Add a Task:</Strong> Add a task by typing the task name in the input field and clicking the "Add" button. The task will be added to the list of tasks.
 2. <bold>Complete a Task:</bold> Click the checkbox next to the task name to mark the task as completed. The task will be moved to the "Completed Tasks" section.
 3. <bold>Delete a Task:</bold> Click the "X" button next to the task name to delete the task from the list of tasks.
 
